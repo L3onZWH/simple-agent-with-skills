@@ -78,6 +78,4 @@ simple-agent-with-skills/
 - **新技能**：在 `skills/` 下新增 `.md` 即可；或通过 `SKILLS_DIR` 指向其他目录。
 - **多轮对话**：可在 `agent.py` 中把 `messages` 列表暴露为会话状态，CLI 增加 `repl` 子命令按需拼接历史。
 
-## 许可
 
-按你的仓库策略自行补充。
